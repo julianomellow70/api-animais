@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "nome": "Leão",
+    "tipo": "Mamífero",
+    "habitat": "Savana",
+    "dieta": "Carnívoro"
+  },
+  {
+    "id": 2,
+    "nome": "Elefante",
+    "tipo": "Mamífero",
+    "habitat": "Floresta Tropical",
+    "dieta": "Herbívoro"
+  },
+  {
+    "id": 3,
+    "nome": "Girafa",
+    "tipo": "Mamífero",
+    "habitat": "Savana",
+    "dieta": "Herbívoro"
+  },
+  {
+    "id": 4,
+    "nome": "Tigre",
+    "tipo": "Mamífero",
+    "habitat": "Floresta",
+    "dieta": "Carnívoro"
+  },
+  {
+    "id": 5,
+    "nome": "Hipopótamo",
+    "tipo": "Mamífero",
+    "habitat": "Rio",
+    "dieta": "Herbívoro"
+  },
+  {
+    "id": 6,
+    "nome": "Macaco-prego",
+    "tipo": "Mamífero",
+    "habitat": "Floresta",
+    "dieta": "Frutas e Insetos"
+  },
+  {
+    "id": 7,
+    "nome": "Pinguim",
+    "tipo": "Ave",
+    "habitat": "Polo Sul",
+    "dieta": "Peixes"
+  },
+  {
+    "id": 8,
+    "nome": "Crocodilo",
+    "tipo": "Réptil",
+    "habitat": "Pântano",
+    "dieta": "Carnívoro"
+  },
+  {
+    "id": 9,
+    "nome": "Urso-pardo",
+    "tipo": "Mamífero",
+    "habitat": "Floresta",
+    "dieta": "Onívoro"
+  },
+  {
+    "id": 10,
+    "nome": "Zebra",
+    "tipo": "Mamífero",
+    "habitat": "Savana",
+    "dieta": "Herbívoro"
+  },
+  {
+    "nome": "Burro",
+    "tipo": "Mamífero",
+    "habitat": "Sertao",
+    "dieta": "Vegetariano"
+  },
+  {
+    "nome": "Peixe",
+    "tipo": "Peixifero",
+    "habitat": "Rio pires de sa",
+    "dieta": "lixo"
+  },
+  {
+    "nome": "Aguia",
+    "tipo": "Ar",
+    "habitat": "colinas",
+    "dieta": "rato do mato"
+  }
+]
